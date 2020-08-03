@@ -1,5 +1,5 @@
 <p  align="center">
-<img  src="https://media.giphy.com/media/l0HlP7vUlR4PFivTi/giphy.gif"  height="300" alt="recycle pug">
+<img  src="https://media.giphy.com/media/l0HlP7vUlR4PFivTi/giphy.gif"  height="300" alt="giphy gif">
 </p>
 <br/>
 
